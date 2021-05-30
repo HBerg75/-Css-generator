@@ -1,0 +1,36 @@
+.picture1
+    {
+      background: url('test.png');
+      background-repeat: no-repeat;
+      display: inline-block;
+      background-position: 0px 0px;
+      width:227px;
+      height:222px;
+    }
+.picture2
+    {
+      background: url('test.png');
+      background-repeat: no-repeat;
+      display: inline-block;
+      background-position: -227px 0px;
+      width:240px;
+      height:210px;
+    }
+.picture3
+    {
+      background: url('test.png');
+      background-repeat: no-repeat;
+      display: inline-block;
+      background-position: -467px 0px;
+      width:227px;
+      height:222px;
+    }
+.picture4
+    {
+      background: url('test.png');
+      background-repeat: no-repeat;
+      display: inline-block;
+      background-position: -694px 0px;
+      width:286px;
+      height:176px;
+    }
